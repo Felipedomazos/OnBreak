@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="dia-y-noche.png" />
+    <None Remove="luna.png" />
+    <None Remove="SCS\IMG\adminCli.png" />
+    <None Remove="SCS\IMG\adminCli2.png" />
+    <None Remove="SCS\IMG\adminCntrato.png" />
+    <None Remove="SCS\IMG\cerrar.png" />
+    <None Remove="SCS\IMG\cuenta.png" />
+    <None Remove="SCS\IMG\info.png" />
+    <None Remove="SCS\IMG\ListaCli.png" />
+    <None Remove="SCS\IMG\ListaCli2.png" />
+    <None Remove="SCS\IMG\listCntrato.png" />
+    <None Remove="SCS\IMG\menu.png" />
+    <None Remove="SCS\IMG\minimizar.png" />
+    <None Remove="SCS\IMG\temaOscuro.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.9" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="dia-y-noche.png" />
+    <Resource Include="luna.png" />
+    <Resource Include="SCS\IMG\adminCli.png" />
+    <Resource Include="SCS\IMG\adminCli2.png" />
+    <Resource Include="SCS\IMG\adminCntrato.png" />
+    <Resource Include="SCS\IMG\cerrar.png" />
+    <Resource Include="SCS\IMG\cuenta.png" />
+    <Resource Include="SCS\IMG\info.png" />
+    <Resource Include="SCS\IMG\ListaCli.png" />
+    <Resource Include="SCS\IMG\ListaCli2.png" />
+    <Resource Include="SCS\IMG\listCntrato.png" />
+    <Resource Include="SCS\IMG\menu.png" />
+    <Resource Include="SCS\IMG\minimizar.png" />
+    <Resource Include="SCS\IMG\temaOscuro.png" />
+  </ItemGroup>
+
+</Project>

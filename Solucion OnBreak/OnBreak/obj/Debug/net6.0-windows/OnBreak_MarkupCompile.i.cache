@@ -1,0 +1,20 @@
+﻿OnBreak
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Duoc\source\repos\Solucion OnBreak\OnBreak\obj\Debug\net6.0-windows\
+OnBreak
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Duoc\source\repos\Solucion OnBreak\OnBreak\App.xaml
+31309494273
+
+71170763488
+230-1514923991
+MainWindow.xaml;Views\AdminClientes.xaml;Views\CRUDClientes.xaml;
+
+False
+
